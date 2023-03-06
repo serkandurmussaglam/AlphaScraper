@@ -1,8 +1,7 @@
 ## AlphaScraper Python programlama dilinde Twitter'dan veri çekme işlemlerini gerçekleştiren bir programdır. Programın amacı kullanıcının girdiği veriler doğrultusunda Twitter'dan belirtilen sayıda tweeti çekerek bir Excel dosyasına kaydetmektedir. Program kullanıcının veri çekme türünü de seçebilme özelliğine sahiptir.
 
 ### "Username" seçeneğini seçtikten sonra kullanıcı adı ve tweet sayısı ile veri çekebilirsiniz.
-### "Popular" seçeneğini seçtikten sonra kelime veya hashtag ile arama yapabilirsiniz.
-### "Latest" seçeneğini seçtikten sonra kelime veya hashtag ile arama yapabilirsiniz.
+### "Popular" yada "Latest" seçeneğini seçtikten sonra kelime veya hashtag ve tweet sayısı ile veri çekebilirsiniz.
 
 Programı kullanabilmek için tkinter, webbrowser, snscrape, pandas, numpy ve tqdm ve openpyxl kütüphanelerinin yüklü olması gerekmektedir. Bu kütüphanelerin yüklü olduğundan emin olmak için aşağıdaki komutu kullanabilirsiniz:
 
