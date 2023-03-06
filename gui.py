@@ -106,6 +106,7 @@ def word_latest():
     os.system('cls')
     print("İşlem tamamlandı!")
 
+# Veri çekme tipine göre fonksiyon çağrılıyor.
 def scrape_type():
     if var.get() == 0:
         user_data()
@@ -113,7 +114,8 @@ def scrape_type():
         word_popular()
     else:
         word_latest()
-
+        
+# Ekran temizleme fonksiyonu
 def clear():
     # Clear buton fonksiyonu
     entry_1.delete(0, END)
