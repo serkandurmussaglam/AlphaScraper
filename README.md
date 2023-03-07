@@ -3,6 +3,8 @@
 ### "Username" seçeneğini seçtikten sonra kullanıcı adı ve tweet sayısı ile veri çekebilirsiniz.
 ### "Popular" yada "Latest" seçeneğini seçtikten sonra kelime veya hashtag ve tweet sayısı ile veri çekebilirsiniz.
 
+### !!! Veri çekme hızı internet ve donanıma bağlıdır.
+
 ### Veri çekme işlemi tamamlandıktan sonra otomatik olarak program ile aynı dizinde bir excel dosyası olarak kaydedilecektir.
 
 Programı kullanabilmek için tkinter, webbrowser, snscrape, pandas, numpy ve tqdm ve openpyxl kütüphanelerinin yüklü olması gerekmektedir. Bu kütüphanelerin yüklü olduğundan emin olmak için aşağıdaki komutu kullanabilirsiniz:
