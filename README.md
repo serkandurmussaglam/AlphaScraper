@@ -11,3 +11,11 @@ Programı kullanabilmek için tkinter, webbrowser, snscrape, pandas, numpy ve tq
 
 
 ![Ekran görüntüsü 2023-03-06 223324](https://user-images.githubusercontent.com/88042600/223233747-8c5c7a28-35fc-46d6-a6fa-fc4f09aa0380.png)
+
+### Örnek kullanıcı adı: elonmusk
+
+![username](https://user-images.githubusercontent.com/88042600/223419170-fbbfeae9-81d5-4e07-b290-1aef2dbc7952.png)
+
+### Örnek kelime: bitcoin
+
+![word](https://user-images.githubusercontent.com/88042600/223419358-e6a26484-6e6a-43f0-9292-ff658b9f32d3.png)
